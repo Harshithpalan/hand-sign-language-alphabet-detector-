@@ -1,0 +1,14 @@
+{
+  "name": "asl-sign-language-detector",
+  "version": "1.0.0",
+  "description": "SIGN - ASL Fingerspelling A-Z Detector using MediaPipe Hands",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "vite": "^5.2.11"
+  }
+}
